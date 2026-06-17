@@ -9,7 +9,13 @@ builder.Services.AddAuthentication()
         null
     );
 builder.Services.AddAuthorization();
-
+builder.Services.AddSingleton<EnrollmentWorker>();
+builder.Services.AddScoped<IEnrollmentService, EnrollmentService>();
+builder.Host.UseDefaultServiceProvider(options =>
+{
+options.ValidateScopes = true;
+options.ValidateOnBuild = true;
+});
 
 var app = builder.Build();
 
@@ -32,4 +38,11 @@ courseCode = "CS-101",
 studentId = "S-001",
 letterGrade = "A"
 })).RequireAuthorization();
+
+app.MapGet("/api/enrollments/worker-smoke", (EnrollmentWorker worker) =>
+{
+worker.ProcessBatch();
+return Results.Ok("processed");
+});
+
 app.Run();
