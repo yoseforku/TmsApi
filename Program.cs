@@ -1,4 +1,3 @@
-#error TESTING_PROGRAM_CS
 
 using Microsoft.AspNetCore.Authentication;
 using Scalar.AspNetCore;
