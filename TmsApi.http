@@ -1,6 +1,87 @@
 @TmsApi_HostAddress = http://localhost:5053
 
+
+### =========================
+### 1. GET All Enrollments
+### =========================
+
+GET {{TmsApi_HostAddress}}/api/enrollments
+Accept: application/json
+
+
+### =========================
+### 2. CREATE Enrollment (POST)
+### Expected: 201 Created
+### Copy the returned id for GET/DELETE tests
+### =========================
+
+POST {{TmsApi_HostAddress}}/api/enrollments
+Content-Type: application/json
+
+{
+  "studentId": "S-001",
+  "courseCode": "CS-101"
+}
+
+
+### =========================
+### 3. GET Enrollment By ID
+### Replace ID with the id returned from POST
+### Example: /api/enrollments/9b16b16c
+### =========================
+
+GET {{TmsApi_HostAddress}}/api/enrollments/9b16b16c
+Accept: application/json
+
+
+### =========================
+### 4. DELETE Enrollment
+### Expected: 204 No Content
+### Replace ID with real id
+### =========================
+
+DELETE {{TmsApi_HostAddress}}/api/enrollments/9b16b16c
+
+
+### =========================
+### 5. GET Deleted Enrollment
+### Expected: 404 Not Found
+### =========================
+
+GET {{TmsApi_HostAddress}}/api/enrollments/9b16b16c
+Accept: application/json
+
+
+### =========================
+### 6. Worker Smoke Test
+### =========================
+
 GET {{TmsApi_HostAddress}}/api/enrollments/worker-smoke
 Accept: application/json
 
-###
+
+### =========================
+### 7. Protected Assessment Endpoint
+### Requires Training authentication header
+### =========================
+
+GET {{TmsApi_HostAddress}}/api/assessments/results
+Training-User: S-001
+Accept: application/json
+
+
+### =========================
+### 8. ProblemDetails Error Test
+### Expected: 500 JSON response
+### =========================
+
+GET {{TmsApi_HostAddress}}/api/error
+Accept: application/json
+
+
+### =========================
+### 9. OpenAPI Document
+### =========================
+
+GET {{TmsApi_HostAddress}}/openapi/v1.json
+Accept: application/json
