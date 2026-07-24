@@ -1,0 +1,36 @@
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\bin\Debug\net10.0\TmsApi.Domain.deps.json
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\bin\Debug\net10.0\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\bin\Debug\net10.0\TmsApi.Domain.pdb
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.AssemblyInfoInputs.cache
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.AssemblyInfo.cs
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.sourcelink.json
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\obj\Debug\net10.0\refint\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.pdb
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApi-main v2\TmsApi.Domain\obj\Debug\net10.0\ref\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\bin\Debug\net10.0\TmsApi.Domain.deps.json
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\bin\Debug\net10.0\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\bin\Debug\net10.0\TmsApi.Domain.pdb
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.AssemblyInfoInputs.cache
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.AssemblyInfo.cs
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.sourcelink.json
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\refint\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.pdb
+C:\Users\CSUG\yosef\TmsApi-main v2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\ref\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\bin\Debug\net10.0\TmsApi.Domain.deps.json
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\bin\Debug\net10.0\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\bin\Debug\net10.0\TmsApi.Domain.pdb
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.AssemblyInfoInputs.cache
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.AssemblyInfo.cs
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.sourcelink.json
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\refint\TmsApi.Domain.dll
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\TmsApi.Domain.pdb
+C:\Users\CSUG\yosef\TmsApi-mainv2_1\TmsApiV2\TmsApi.Domain\obj\Debug\net10.0\ref\TmsApi.Domain.dll
